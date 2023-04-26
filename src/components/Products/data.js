@@ -37,7 +37,7 @@ export const productDataTwo = [
     img: sweet2,
     alt: 'Donuts',
     name: 'Doughlicious',
-    desc: 'Belgian chocolate glazed donuts covered in icing with sprinkles on otp',
+    desc: 'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
     price: '$9.99',
     button: 'Add to Cart'
   },
