@@ -28,7 +28,7 @@ export const NavLink = styled(Link)`
 export const NavIcon = styled.div`
   display: block;
   position: absolute;
-  top: 0;
+  top: 0.7rem;
   right: 0;
   cursor: pointer;
   color: #fff;
@@ -36,7 +36,7 @@ export const NavIcon = styled.div`
   p {
     transform: translate(-175%, 100%);
     font-weight: bold;
-    font-size:1.2rem;
+    font-size:1rem;
   }
 `;
 
